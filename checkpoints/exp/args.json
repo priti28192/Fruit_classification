@@ -1,0 +1,1 @@
+{"name": "exp", "dataset_folder": "./dataset/big", "num_workers": 4, "rdm_seed": 1, "device": "cuda", "display_step": 50, "epochs": 100, "batch_size": 4, "lr": 0.001, "momentum": 0.9, "classes": 2}
