@@ -1,3 +1,5 @@
+The aim of this code is to classify fruits as damaged or not i.e. split or no split using convolutional neural network.
+
 ## Overview 
 To train the code, please use the following
 
